@@ -1,4 +1,4 @@
-I'm curious about many things, spread thin on many things; prioritizing family and learning how to talk to computers in intresting ways.
+I'm curious about many things- er, spread thin on many things; prioritizing family and learning how to talk to computers in intresting ways.
 
 I'm passionate about Elixir and have spent six years working in multiple Elixir and Phoenix codebases often as the primary or solo developer. Since May of 2025 my day job has shifted to be primairly Ruby based; Elixir is still my passion and I'm finding ways to keep learning and contribute outside of work.
 
